@@ -19,7 +19,7 @@ Broadly speaking, I am interested in information security and applied cryptograp
 
 News
 ======
-1. "LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain" submitted to *IEEE* Transactions on Services Computing *(JCQ Q1, CCF B).*
+1. "LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain" submitted to *IEEE Transactions on Services Computing* *(JCR Q1, CCF B).*
 2. "A Lattice-based Message Unforgeability Ring Signature Scheme for Autonomous Vehicles" has been published by International Conference on *Wireless Algorithms, Systems, and Applications (WASA'2021, CCF C)*.
 3. "EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles" has been published by *Tsinghua Science and Technology (JCR Q2).*
 4. "A Novel Lattice-based Blind Signature Scheme for Log System in Post-quantum Blockchain" has been accepted by *Computer Systems Science and Engineering (JCR Q3).*
