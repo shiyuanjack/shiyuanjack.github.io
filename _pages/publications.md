@@ -33,7 +33,7 @@ Published in *Computer Systems Science and Engineering, 2021*
 
 Published in *International Conference on Communication Technology(ICCT)*, 2021
 <br><br><br>
-PPSEB: Post-quantum Public-key Searchable Encryption on Blockchain for E-healthcare Internet of Things  
+[**PPSEB: Post-quantum Public-key Searchable Encryption on Blockchain for E-healthcare Internet of Things**](https://www.hindawi.com/journals/scn/2022/3368819/)  
 
 Published in *Security and Communication Networks*, 2021
 <br><br><br>
