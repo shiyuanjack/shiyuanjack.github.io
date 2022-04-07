@@ -10,7 +10,6 @@ Selected list of Publications
 
 [**EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449329) 
 
-
 Published in *Tsinghua Science and Technology*, 2021  
 <br>
 **Recommend citation**: S. Xu, X. Chen and Y. He, "EVchain: An Anonymous Blockchain-Based System for Charging-Connected Electric Vehicles," *Tsinghua Science and Technology*, vol. 26, no. 6, pp. 845-856, Dec. 2021.
@@ -35,7 +34,11 @@ Published in *International Conference on Communication Technology(ICCT)*, 2021
 <br><br><br>
 [**PPSEB: Post-quantum Public-key Searchable Encryption on Blockchain for E-healthcare Internet of Things**](https://www.hindawi.com/journals/scn/2022/3368819/)  
 
-Published in *Security and Communication Networks*, 2021
+Published in *Security and Communication Networks*, 2022
+<br><br><br>
+[**EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET**](https://link.springer.com/article/10.1007/s12083-022-01297-5)  
+
+Published in *Peer-to-Peer Networking and Applications*, 2022
 <br><br><br>
 Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Blockchain  
 
@@ -46,10 +49,7 @@ A Lightweight Encryption Scheme for Secure Message Transmission in VANETs with B
 Submitted to *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
 
 <br><br><br>
-EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET  
 
-Published in *Peer-to-Peer Networking and Applications*, 2022
-<br><br><br>
 An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET 
 
 Published in *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
