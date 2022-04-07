@@ -27,15 +27,15 @@ Submitted to *IEEE Transaction on Services Computing*, 2021
 <br><br><br>
 A Novel Post-Quantum Blind Signature for Log System in Blockchain
 
-To appear in *Computer Systems Science and Engineering, 2021*
+Published in *Computer Systems Science and Engineering, 2021*
 <br><br><br>
 LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones  
 
-To appear in *International Conference on Communication Technology(ICCT)*, 2021
+Published in *International Conference on Communication Technology(ICCT)*, 2021
 <br><br><br>
 PPSEB: Post-quantum Public-key Searchable Encryption on Blockchain for E-healthcare Internet of Things  
 
-Submitted to *Security and Communication Networks*, 2021
+Published in *Security and Communication Networks*, 2021
 <br><br><br>
 Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Blockchain  
 
@@ -53,12 +53,7 @@ Submitted to *Peer-to-Peer Networking and Applications*, 2021
 Secure Bandwidth Allocation on Blockchain for UAV-assisted VANET with Game Theory  
 
 Submitted to *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
-<br><br><br>
-[**Face Recognition Algorithm Based On Convolutional Neural Network**](https://iopscience.iop.org/article/10.1088/1742-6596/1550/2/022023/pdf)  
 
-Published in *International Workshop on Advanced Algorithms and Control Engineering (IWAACE)*, 2020  
-<br>
-**Recommend citation**: S. Xu, S. Xu, Z. Wang, et al., "Face Recognition Algorithm Based On Convolutional Neural Network," in *Journal of Physics: Conference Series*, vol. 1550, pp.022023, May. 2020.
 <br><br><br>
 [**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
 
@@ -67,17 +62,6 @@ Published in *International Seminar on Computer Technology, Mechanical and Elect
 
 **Recommend citation**: X. Liang and S. Xu, " Student Performance Protection Based On Blockchain Technology," in *Journal of Physics: Conference Series*, vol. 1748, pp. 022066, Jan. 2021.
 <br><br><br>
-[**Application of Artificial Intelligence based on Machine Learning**](https://iopscience.iop.org/article/10.1088/1742-6596/1693/1/012084/pdf)  
-
-Published in *International Conference on Computer Information Science and Artificial Intelligence(CISAI)*, 2020  
-<br>
-
-**Recommend citation**: X. Chen, S. Xu, Y. Cao, et al., " Application of Artificial Intelligence based on Machine Learning," in *Journal of Physics: Conference Series*, vol. 1693, pp. 012084, Dec. 2020.
-<br><br><br>
-Big Data Analytics for Improvement  
-
-To appear in *International Journal of Information Management*, 2021
-
 
 Selected list of Computer Software Copyrights
 ======
