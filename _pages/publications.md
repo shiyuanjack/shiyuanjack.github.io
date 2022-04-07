@@ -23,13 +23,13 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 <br><br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
 
-Submitted to *IEEE Transaction on Services Computing*, 2021
+Submitted to *Computer Networks*, 2022
 <br><br><br>
-A Novel Post-Quantum Blind Signature for Log System in Blockchain
+[**A Novel Post-Quantum Blind Signature for Log System in Blockchain**](https://www.techscience.com/csse/v41n3/45554)
 
 Published in *Computer Systems Science and Engineering, 2021*
 <br><br><br>
-LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones  
+[**LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones**](https://ieeexplore.ieee.org/document/9658014)
 
 Published in *International Conference on Communication Technology(ICCT)*, 2021
 <br><br><br>
@@ -39,20 +39,20 @@ Published in *Security and Communication Networks*, 2021
 <br><br><br>
 Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Blockchain  
 
-Submitted to *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
+Published in *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
 <br><br><br>
 A Lightweight Encryption Scheme for Secure Message Transmission in VANETs with Blockchain
 
-Submitted to *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
+Submitted to *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
 
 <br><br><br>
 EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET  
 
-Submitted to *Peer-to-Peer Networking and Applications*, 2021
+Published in *Peer-to-Peer Networking and Applications*, 2022
 <br><br><br>
-Secure Bandwidth Allocation on Blockchain for UAV-assisted VANET with Game Theory  
+An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET 
 
-Submitted to *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
+Published in *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
 
 <br><br><br>
 [**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
