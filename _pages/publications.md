@@ -52,7 +52,7 @@ Submitted to *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
 
 An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET 
 
-Published in *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
+Submitted to *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
 
 <br><br><br>
 [**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
