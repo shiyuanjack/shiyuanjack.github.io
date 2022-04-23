@@ -24,6 +24,7 @@ Published in *Computers, Materials & Continua*, 2022
 **Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain," *Computers, Materials & Continua*, vol. 72, no. 3, pp. 5429-5441, 2022.
 <br><br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
+<br>
 Submitted to *Computer Networks*, 2022
 <br><br><br>
 [**A Novel Post-Quantum Blind Signature for Log System in Blockchain**](https://www.techscience.com/csse/v41n3/45554)
@@ -46,7 +47,9 @@ Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Block
 Published in *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
 <br><br><br>
 Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption
+<br>
 Published in *Intelligent Automation & Soft Computing*, 2022
+<br>
 **Recommend citation**: G. Xu, F. Yun, X. Chen et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531--541, 2022.
 <br><br><br>
 A Lightweight Encryption Scheme for Secure Message Transmission in VANETs with Blockchain
