@@ -20,6 +20,12 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 <br>
 **Recommend citation**: S. Xu, X. Chen, C. Wang, et al., "A Lattice-Based Ring Signature Scheme to Secure Automated Valet Parking," in *Wireless Algorithms, Systems, and Applications(WASA 2021)*, vol. 12938, pp. 70-83, Sep. 2021.
 <br><br><br>
+[**A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain**](https://www.techscience.com/cmc/v72n3/47564)
+
+Published in *Computers, Materials & Continua*, 2022
+<br>
+**Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain," *Computers, Materials & Continua*, vol. 72, no. 3, pp. 5429-5441, 2022.
+<br><br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
 
 Submitted to *Computer Networks*, 2022
