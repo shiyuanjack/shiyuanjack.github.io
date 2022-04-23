@@ -40,7 +40,6 @@ Published in *International Conference on Communication Technology(ICCT)*, 2021
 Published in *Security and Communication Networks*, 2022
 <br><br><br>
 [**EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET**](https://link.springer.com/article/10.1007/s12083-022-01297-5)  
-<br>
 Published in *Peer-to-Peer Networking and Applications*, 2022
 <br><br><br>
 Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Blockchain  
