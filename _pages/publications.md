@@ -20,6 +20,7 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 [**A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain**](https://www.techscience.com/cmc/v72n3/47564)
 <br>
 Published in *Computers, Materials & Continua*, 2022
+<br>
 **Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain," *Computers, Materials & Continua*, vol. 72, no. 3, pp. 5429-5441, 2022.
 <br><br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
@@ -54,6 +55,7 @@ Submitted to *The 2022 IEEE 95th Vehicular Technology Conference(VTC)*, 2022
 <br><br><br>
 [**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
 Published in *International Seminar on Computer Technology, Mechanical and Electrical Engineering(ISCME)*, 2021
+<br>
 **Recommend citation**: X. Liang and S. Xu, " Student Performance Protection Based On Blockchain Technology," in *Journal of Physics: Conference Series*, vol. 1748, pp. 022066, Jan. 2021.
 <br><br><br><br>
 
