@@ -57,11 +57,14 @@ Published in *Peer-to-Peer Networking and Applications*, 2022
 Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Blockchain  
 Published in *IEEE Wireless Communications & Networking Conference (WCNC)*, 2022
 <br><br><br>
+LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios
+Published in *IEEE International Conference on Communications (ICC)*,2022
+<br><br><br>
 [**Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption**](https://www.techscience.com/iasc/v34n1/47381)
 <br>
 Published in *Intelligent Automation & Soft Computing*, 2022
 <br>
-**Recommend citation**: G. Xu, F. Yun, X. Chen et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531--541, 2022.
+**Recommend citation**: G. Xu, F. Yun, X. Chen, et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531--541, 2022.
 <br><br><br>
 A Lightweight Encryption Scheme for Secure Message Transmission in VANETs with Blockchain
 <br>
