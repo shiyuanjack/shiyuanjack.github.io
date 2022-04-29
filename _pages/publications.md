@@ -45,9 +45,11 @@ Pulished in *International Conference on Computer and Communications (ICCC)*, 20
 <br>
 **Recommend citation**: Y. Cheng, S. Xu, M. Zang, et al., "Secure Authentication Scheme for VANET Based on Blockchain," in *International Conference on Computer and Communications (ICCC)*, pp. 1526-1531, 2021.
 <br><br><br>
-[**PPSEB: Post-quantum Public-key Searchable Encryption on Blockchain for E-healthcare Internet of Things**](https://www.hindawi.com/journals/scn/2022/3368819/)
+[**PPSEB: Postquantum Public-key Searchable Encryption on Blockchain for E-healthcare Scenarios**](https://www.hindawi.com/journals/scn/2022/3368819/)
 <br>
 Published in *Security and Communication Networks*, 2022
+<br>
+**Recommend citation**: G. Xu, S. Xu, Y. Cao, et al., "PPSEB: A Postquantum Public-Key Searchable Encryption Scheme on Blockchain for E-Healthcare Scenarios," *Security and Communication Networks*, vol.2022, 2022.
 <br><br><br>
 [**EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET**](https://link.springer.com/article/10.1007/s12083-022-01297-5)  
 Published in *Peer-to-Peer Networking and Applications*, 2022
