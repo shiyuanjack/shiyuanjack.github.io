@@ -11,7 +11,7 @@ redirect_from:
 
 Background
 ======
-Mr. Xu is pursuing the Ph.D degree in the Department of Computer Science, supervised by [Prof. Yiu, Siu Ming] (https://www.cs.hku.hk/index.php/people/academic-staff/smyiu), in The University of Hong Kong. an undergraduate student in North China University of Technology. He is studying B.Eng. in information security with expected graduate in June 2022. He was a research assistant with [Dr. Gao Shang](https://goldsainteagle.github.io/shanggao.github.io/) at the The Hong Kong Polytechnic University within half year and interned as a summer research assiatant with [Dr. Ramanathan, Ravishankar](https://www.cs.hku.hk/index.php/people/academic-staff/ravi) at The University of Hong Kong in 2021. During his bachelor's study, he has published several academic conference and journal papers.
+Mr. Xu is pursuing the Ph.D degree in the Department of Computer Science, supervised by [Prof. Yiu, Siu Ming](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu), at The University of Hong Kong. Before he came in Hong Kong, he received the B.Eng. degree majoring in information security at North China University of Technology. He was an online research assistant with [Dr. Gao Shang](https://goldsainteagle.github.io/shanggao.github.io/) at the The Hong Kong Polytechnic University within half year and interned as a summer research assiatant with [Dr. Ramanathan, Ravishankar](https://www.cs.hku.hk/index.php/people/academic-staff/ravi) at The University of Hong Kong in 2021. During his bachelor's study, he has published several academic conference and journal papers.
 
 Research Interests
 ======
