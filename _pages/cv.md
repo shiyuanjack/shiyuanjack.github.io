@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B. Eng. in Information Security, **North China University of Technology**, China, 2022(expected)
+* Ph.D. in Computer Science, **The University of Hong Kong**, HK, 2026 (expected)
+
+* B. Eng. in Information Security, **North China University of Technology**, China, 2022
                                                                  
 * Summer Institute: Fintech: AI, Blockchain, Computational Finance, **The University of Hong Kong**, HK, 2020
 
