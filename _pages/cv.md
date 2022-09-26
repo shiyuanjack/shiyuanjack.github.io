@@ -28,10 +28,6 @@ RESEARCH ASSISTANT
 
   Supervised by Dr. Shang Gao.
 
-* Quantum Information, Bell Theorem and Quantum Cryptography, **The University of Hong Kong**, HK, 2021
-
-  Supervised by Prof. Ravi Ramanathan.
-
 RESEARCH & PROJECT
 ======
  * Cryptographic Protocol Teaching and Simulation System, BUPT&NCUT, China, 2021  
@@ -44,15 +40,16 @@ RESEARCH & PROJECT
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yulong Han  
 *  Researched on Vehicle Trajectory Prediction Methodology, NCUT, China, 2019  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Chao Wang  
-* Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2021  
+* Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2022  
   *   Researched on the Prediction of Vehicle Node Behavior                                                        
   *   Researched on the Industrial Sparse Protocols Reverse Parsing System through Machine Learning  
-  *   Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain
+  *   Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain (Excelllent Award)
 
-Work/Internship Experience
+Internship Experience
 ======
-  *  **Tencent**, Beijing, China, June 2020-Sept. 2020  
-      *    Data Product Manager
+* Quantum Information, Bell Theorem and Quantum Cryptography, **The University of Hong Kong**, HK, 2021
+
+  Supervised by Prof. Ravi Ramanathan.
 
 
 CERTIFICATE & AWARD 
@@ -70,7 +67,6 @@ CERTIFICATE & AWARD
 
 * YouTube: Peking University - Blockchain technology and applications
  
-
 
 * Selected award:
     *  China College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition – First prize
