@@ -23,6 +23,10 @@ Published in *Computers, Materials & Continua*, 2022
 <br>
 **Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain," *Computers, Materials & Continua*, vol. 72, no. 3, pp. 5429-5441, 2022.
 <br><br><br>
+[**A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios**](https://www.sciencedirect.com/science/article/abs/pii/S1389128622002626)
+<br>
+Published in *Computer Networks*, 2022
+<br><br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
 <br>
 Submitted to *Computer Networks*, 2022
@@ -56,10 +60,10 @@ Published in *Peer-to-Peer Networking and Applications*, 2022
 <br>
 **Recommend citation**: J. Ren, Y. Cheng, S. Xu, "EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET," *Peer-to-Peer Networking and Applications*, vol.15, pp.1385-1397, 2022.
 <br><br><br>
-Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Blockchain  
+[**AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain**](https://ieeexplore.ieee.org/document/9771830)  
 Published in *IEEE Wireless Communications & Networking Conference (WCNC)*, 2022
 <br><br><br>
-LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios
+[**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios)
 <br>
 Published in *IEEE International Conference on Communications (ICC)*,2022
 <br><br><br>
