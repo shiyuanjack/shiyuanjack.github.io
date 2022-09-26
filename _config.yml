@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "XU Shiyuan"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate and IEEE Student Member"
+  bio              : "Ph.D. student and IEEE Student Member"
   location         : "The University of Hong Kong"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  google scholar   : "https://scholar.google.com/citations?hl=zh-CN&user=XU_rEIAAAAAJ"
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-9076-1695"
   pinterest        :
