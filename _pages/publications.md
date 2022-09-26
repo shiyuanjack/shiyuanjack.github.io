@@ -63,7 +63,7 @@ Published in *Peer-to-Peer Networking and Applications*, 2022
 [**AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain**](https://ieeexplore.ieee.org/document/9771830)  
 Published in *IEEE Wireless Communications & Networking Conference (WCNC)*, 2022
 <br><br><br>
-[**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios)
+[**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](https://ieeexplore.ieee.org/document/9838582)
 <br>
 Published in *IEEE International Conference on Communications (ICC)*,2022
 <br><br><br>
