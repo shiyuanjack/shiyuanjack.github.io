@@ -11,6 +11,7 @@ redirect_from:
 
 Conferences
 ======
+* WASA 2022, Dalian, China, October 2022 
 * IEEE ICC 2022, Seoul, South Korea, May 2022
 * IEEE WCNC 2022, Austin, TX, USA, April 2022
 * IEEE ICCC 2021, Chengdu, China, December 2021
