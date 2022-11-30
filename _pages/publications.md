@@ -26,6 +26,8 @@ Published in *Computers, Materials & Continua*, 2022
 [**A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios**](https://www.sciencedirect.com/science/article/abs/pii/S1389128622002626)
 <br>
 Published in *Computer Networks*, 2022
+<br>
+**Recommend citation**: Y. Cao, S. Xu, X. Chen, et al., "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios," *Computer Networks*, vol. 214, no. 109149, 2022.
 <br><br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
 <br>
@@ -53,7 +55,7 @@ Pulished in *International Conference on Computer and Communications (ICCC)*, 20
 <br>
 Published in *Security and Communication Networks*, 2022
 <br>
-**Recommend citation**: G. Xu, S. Xu, Y. Cao, et al., "PPSEB: A Postquantum Public-Key Searchable Encryption Scheme on Blockchain for E-Healthcare Scenarios," *Security and Communication Networks*, vol.2022, 2022.
+**Recommend citation**: G. Xu, S. Xu, Y. Cao, et al., "PPSEB: A Postquantum Public-Key Searchable Encryption Scheme on Blockchain for E-Healthcare Scenarios," *Security and Communication Networks*, vol. 2022, 2022.
 <br><br><br>
 [**EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET**](https://link.springer.com/article/10.1007/s12083-022-01297-5)  
 Published in *Peer-to-Peer Networking and Applications*, 2022
@@ -65,21 +67,32 @@ Published in *IEEE Wireless Communications & Networking Conference (WCNC)*, 2022
 <br><br><br>
 [**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](https://ieeexplore.ieee.org/document/9838582)
 <br>
-Published in *IEEE International Conference on Communications (ICC)*,2022
+Published in *IEEE International Conference on Communications (ICC)*, 2022
 <br><br><br>
 [**Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption**](https://www.techscience.com/iasc/v34n1/47381)
 <br>
 Published in *Intelligent Automation & Soft Computing*, 2022
 <br>
-**Recommend citation**: G. Xu, F. Yun, X. Chen, et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531--541, 2022.
+**Recommend citation**: G. Xu, F. Yun, X. Chen, et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531-541, 2022.
 <br><br><br>
-A Lightweight Encryption Scheme for Secure Message Transmission in VANETs with Blockchain
+[**VMT: Secure VANETs Message Transmission Scheme with Encryption and Blockchain**](https://link.springer.com/chapter/10.1007/978-3-031-19208-1_21)
 <br>
-Submitted to *The IEEE Global Communications Conference (Globecom)*, 2022
+Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
+<br>
+**Recommend citation**: S. Xu, X. Chen, Y. He, et al., "VMT: Secure VANETs Message Transmission Scheme with Encryption and Blockchain," in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13471, pp. 244–257, 2022.
 <br><br><br>
-An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET 
+[**SBA-GT: A Secure Bandwidth Allocation Scheme with Game Theory for UAV-Assisted VANET Scenarios**](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_29)
 <br>
-Submitted to *The IEEE Global Communications Conference (Globecom)*, 2022
+Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
+<br>
+**Recommend citation**: Y. Cheng, S. Xu, Y. Cao, et al., "SBA-GT: A Secure Bandwidth Allocation Scheme with Game Theory for UAV-Assisted VANET Scenarios,
+" in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13472, pp. 356–364, 2022.
+<br><br><br>
+[**CA-Free Real-Time Fuzzy Digital Signature Scheme**](https://link.springer.com/chapter/10.1007/978-3-031-19208-1_39)
+<br>
+Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
+<br>
+**Recommend citation**: Y. Yan and S. Xu, "CA-Free Real-Time Fuzzy Digital Signature Scheme," in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13471, pp. 479–490, 2022.
 <br><br><br>
 [**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
 Published in *International Seminar on Computer Technology, Mechanical and Electrical Engineering(ISCME)*, 2021
