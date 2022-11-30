@@ -12,100 +12,99 @@ Selected list of Publications
 <br>
 Published in *Tsinghua Science and Technology*, 2021  
 **Recommend citation**: S. Xu, X. Chen and Y. He, "EVchain: An Anonymous Blockchain-Based System for Charging-Connected Electric Vehicles," *Tsinghua Science and Technology*, vol. 26, no. 6, pp. 845-856, Dec. 2021.
-<br><br><br>
+<br><br>
 [**A Lattice-Based Ring Signature Scheme to Secure Automated Valet Parking**](https://link.springer.com/chapter/10.1007%2F978-3-030-86130-8_6)  
 Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2021  
 **Recommend citation**: S. Xu, X. Chen, C. Wang, et al., "A Lattice-Based Ring Signature Scheme to Secure Automated Valet Parking," in *Wireless Algorithms, Systems, and Applications (WASA 2021)*, vol. 12938, pp. 70-83, Sep. 2021.
-<br><br><br>
+<br><br>
 [**A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain**](https://www.techscience.com/cmc/v72n3/47564)
 <br>
 Published in *Computers, Materials & Continua*, 2022
 <br>
 **Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain," *Computers, Materials & Continua*, vol. 72, no. 3, pp. 5429-5441, 2022.
-<br><br><br>
+<br><br>
 [**A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios**](https://www.sciencedirect.com/science/article/abs/pii/S1389128622002626)
 <br>
 Published in *Computer Networks*, 2022
 <br>
 **Recommend citation**: Y. Cao, S. Xu, X. Chen, et al., "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios," *Computer Networks*, vol. 214, no. 109149, 2022.
-<br><br><br>
+<br><br>
 LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain
 <br>
 Submitted to *Computer Networks*, 2022
-<br><br><br>
+<br><br>
 [**A Novel Post-Quantum Blind Signature for Log System in Blockchain**](https://www.techscience.com/csse/v41n3/45554)
 <br>
 Published in *Computer Systems Science and Engineering*, 2022
 <br>
 **Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A novel post-quantum blind signature for log system in blockchain," *Computer Systems Science and Engineering*, vol. 41, no.3, pp. 945–958, 2022.
-<br><br><br>
+<br><br>
 [**LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones**](https://ieeexplore.ieee.org/document/9658014)
 <br>
 Published in *International Conference on Communication Technology (ICCT)*, 2021
 <br>
 **Recommend citation**: Y. Cheng, S. Xu, M. Zang, et al., "LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones," in *International Conference on Communication Technology (ICCT)*, pp. 656-661, 2021.
-<br><br><br>
+<br><br>
 [**Secure Authentication Scheme for VANET Based on Blockchain**](https://ieeexplore.ieee.org/document/9674693)
 <br>
 Pulished in *International Conference on Computer and Communications (ICCC)*, 2021
 <br>
 **Recommend citation**: Y. Cheng, S. Xu, M. Zang, et al., "Secure Authentication Scheme for VANET Based on Blockchain," in *International Conference on Computer and Communications (ICCC)*, pp. 1526-1531, 2021.
-<br><br><br>
+<br><br>
 [**PPSEB: Postquantum Public-key Searchable Encryption on Blockchain for E-healthcare Scenarios**](https://www.hindawi.com/journals/scn/2022/3368819/)
 <br>
 Published in *Security and Communication Networks*, 2022
 <br>
 **Recommend citation**: G. Xu, S. Xu, Y. Cao, et al., "PPSEB: A Postquantum Public-Key Searchable Encryption Scheme on Blockchain for E-Healthcare Scenarios," *Security and Communication Networks*, vol. 2022, 2022.
-<br><br><br>
+<br><br>
 [**EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET**](https://link.springer.com/article/10.1007/s12083-022-01297-5) 
 <br>
 Published in *Peer-to-Peer Networking and Applications*, 2022
 <br>
 **Recommend citation**: J. Ren, Y. Cheng, S. Xu, "EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET," *Peer-to-Peer Networking and Applications*, vol.15, pp.1385-1397, 2022.
-<br><br><br>
+<br><br>
 [**AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain**](https://ieeexplore.ieee.org/document/9771830)  
 <br>
 Published in *IEEE Wireless Communications and Networking Conference (WCNC)*, 2022
 <br>
 **Recommend citation**: X. Chen, S. Xu, T. Qin, et al., "AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain," in *IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1176-1181, 2022.
-<br><br><br>
+<br><br>
 [**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](https://ieeexplore.ieee.org/document/9838582)
 <br>
 Published in *IEEE International Conference on Communications (ICC)*, 2022
 <br>
 **Recommend citation**: X. Chen, S. Xu, Y. He, et al., "LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios," in *IEEE International Conference on Communications (ICC)*, pp. 1239-1244, 2022.
-<br><br><br>
+<br><br>
 [**Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption**](https://www.techscience.com/iasc/v34n1/47381)
 <br>
 Published in *Intelligent Automation & Soft Computing*, 2022
 <br>
 **Recommend citation**: G. Xu, F. Yun, X. Chen, et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531-541, 2022.
-<br><br><br>
+<br><br>
 [**VMT: Secure VANETs Message Transmission Scheme with Encryption and Blockchain**](https://link.springer.com/chapter/10.1007/978-3-031-19208-1_21)
 <br>
 Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
 <br>
 **Recommend citation**: S. Xu, X. Chen, Y. He, et al., "VMT: Secure VANETs Message Transmission Scheme with Encryption and Blockchain," in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13471, pp. 244–257, 2022.
-<br><br><br>
+<br><br>
 [**SBA-GT: A Secure Bandwidth Allocation Scheme with Game Theory for UAV-Assisted VANET Scenarios**](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_29)
 <br>
 Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
 <br>
 **Recommend citation**: Y. Cheng, S. Xu, Y. Cao, et al., "SBA-GT: A Secure Bandwidth Allocation Scheme with Game Theory for UAV-Assisted VANET Scenarios,
 " in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13472, pp. 356–364, 2022.
-<br><br><br>
+<br><br>
 [**CA-Free Real-Time Fuzzy Digital Signature Scheme**](https://link.springer.com/chapter/10.1007/978-3-031-19208-1_39)
 <br>
 Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
 <br>
 **Recommend citation**: Y. Yan and S. Xu, "CA-Free Real-Time Fuzzy Digital Signature Scheme," in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13471, pp. 479–490, 2022.
-<br><br><br>
+<br><br>
 [**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
 Published in *International Seminar on Computer Technology, Mechanical and Electrical Engineering(ISCME)*, 2021
 <br>
 **Recommend citation**: X. Liang and S. Xu, " Student Performance Protection Based On Blockchain Technology," in *Journal of Physics: Conference Series*, vol. 1748, pp. 022066, Jan. 2021.
-<br><br><br><br>
-
+<br>
 Selected list of Computer Software Copyrights
 ======
 
