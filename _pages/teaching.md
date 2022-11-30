@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistant"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-This is a test.
-Thanks for your attention.
+COMP2119C. Introduction to Data Structures and Algorithms (CS)
+*Undergraduate course, Department of Computer Science, The University of Hong Kong, 2023*
