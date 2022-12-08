@@ -104,7 +104,9 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 Published in *International Seminar on Computer Technology, Mechanical and Electrical Engineering(ISCME)*, 2021
 <br>
 **Recommend citation**: X. Liang and S. Xu, " Student Performance Protection Based On Blockchain Technology," in *Journal of Physics: Conference Series*, vol. 1748, pp. 022066, Jan. 2021.
-<br>
+
+
+
 Selected list of Computer Software Copyrights
 ======
 
