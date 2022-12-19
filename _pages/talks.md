@@ -11,7 +11,7 @@ redirect_from:
 
 Conferences
 ======
-* WASA 2022, Dalian, China, TBA 
+* WASA 2022, Dalian, China, December 2022 
 * IEEE Metaverse Congress, Online, December 2022
 * IEEE ICC 2022, Seoul, South Korea, May 2022
 * IEEE WCNC 2022, Austin, TX, USA, April 2022
