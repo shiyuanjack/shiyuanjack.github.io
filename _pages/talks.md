@@ -18,3 +18,10 @@ Conferences
 * IEEE ICCC 2021, Chengdu, China, December 2021
 * IEEE ICCT 2021, Tianjin, China, October 2021
 * WASA 2021, Nanjing, China, June 2021 
+
+
+MOOCs & Schools
+======
+* Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School, Melbourne, Australia, 2023
+* Zero Knowledge Proofs MOOC, UC Berkeley, Online, 2023
+* HKU FinTech MOOC - FinTech Technologies, HKU, Online, 2023
