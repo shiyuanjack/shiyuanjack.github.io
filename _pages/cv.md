@@ -12,12 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, **The University of Hong Kong**, HK, 2026 (expected)
-
-* B. Eng. in Information Security, **North China University of Technology**, China, 2022
+  Supervised by Prof. Siu-Ming Yiu.
+  
+* B. Eng. in Information Security (with distinction), **North China University of Technology**, China, 2022
                                                                  
-* Summer Institute: Fintech: AI, Blockchain, Computational Finance, **The University of Hong Kong**, HK, 2020
-
-
 RESEARCH ASSISTANT
 ======
 * Privacy Protection, Blockchain Security and Post-quantum Cryptography, **North China University of Technology**, China, 2020-2021
@@ -60,7 +58,7 @@ CERTIFICATE & AWARD
    * IBM Applied AI 
    * HKUST Matrix Algebra for Engineers
 
-* MOOC: 
+* Chinese MOOC: 
     *   Peking University - Artificial intelligence and the information society
     *   Huazhong University of Science and Technology - Principles of Computer Composition
 
