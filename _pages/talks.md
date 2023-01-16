@@ -22,6 +22,7 @@ Conferences
 
 MOOCs & Schools
 ======
-* Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School, Melbourne, Australia, 2023
-* Zero Knowledge Proofs MOOC, UC Berkeley, Online, 2023
-* HKU FinTech MOOC - FinTech Technologies, HKU, Online, 2023
+* Summer Institute: Fintech: AI, Blockchain, Computational Finance, **HKU**, Hong Kong, 2020 
+* Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School, **Monash U**, Australia, 2023
+* Zero Knowledge Proofs MOOC, **UC Berkeley**, Online, 2023
+* HKU FinTech MOOC - FinTech Technologies, **HKU**, Online, 2023
