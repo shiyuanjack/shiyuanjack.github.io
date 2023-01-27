@@ -20,9 +20,11 @@ Conferences
 * WASA 2021, Nanjing, China, June 2021 
 
 
-MOOCs & Schools
+MOOCs, Schools & Distinguished Lectures
 ======
 * Summer Institute: Fintech: AI, Blockchain, Computational Finance, **HKU**, Hong Kong, 2020 
-* Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School, **Monash U**, Australia, 2023
-* Zero Knowledge Proofs MOOC, **UC Berkeley**, Online, 2023
-* HKU FinTech MOOC - FinTech Technologies, **HKU**, Online, 2023
+* Distinguished Lecture: Digitalization, Digital Trust and TrustTech, **NTU & HKU**, Hong Kong, 2022
+* Summer School: Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP), **Monash U**, Australia, 2023
+* MOOC: Zero Knowledge Proofs, **UC Berkeley**, Online, 2023
+* MOOC: FinTech Technologies, **HKU**, Online, 2023
+* Distinguished Lecture: Web3 Big Data and Blockchain Forensics, **Cornell U & HKU**, Online, 2023
