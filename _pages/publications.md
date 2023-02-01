@@ -7,10 +7,10 @@ author_profile: true
 
 Selected list of Publications
 ======
-[**AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain**]
-(https://www.sciencedirect.com/science/article/pii/S1389128623000403?via%3Dihub)
+[**AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain**](https://www.sciencedirect.com/science/article/pii/S1389128623000403?via%3Dihub)
 <br>
 Published in *Computer Networks*, 2023
+<br>
 **Recommend citation**: X. Chen, S. Xu, Y. Cao, et al., "AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain," *Computer Networks*, vol. 224, no. 109595, 2023.
 <br><br>
 
