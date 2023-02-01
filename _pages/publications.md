@@ -51,7 +51,6 @@ Published in *IEEE International Conference on Communications (ICC)*, 2022
 <br><br>
 
 [**AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain**](https://ieeexplore.ieee.org/document/9771830)  
-<br>
 Published in *IEEE Wireless Communications and Networking Conference (WCNC)*, 2022
 <br>
 **Recommend citation**: X. Chen, S. Xu, T. Qin, et al., "AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain," in *IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1176-1181, 2022.
