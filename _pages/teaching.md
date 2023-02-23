@@ -12,5 +12,4 @@ redirect_from:
 [**COMP2119C. Introduction to Data Structures and Algorithms (CS)**](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2022/comp2119.html)
 <br>
 *Taught by* Prof. Siu-Ming Yiu and Prof. Benjamin C.M. Kao
-
 *Undergraduate course, Department of Computer Science, The University of Hong Kong, 2023*
