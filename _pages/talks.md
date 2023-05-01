@@ -11,7 +11,8 @@ redirect_from:
 
 Conferences
 ======
-* WASA 2022 & 2023, Dalian, China, 2023 
+* IEEE VTC 2023 Srping, Florence, Italy, June 2023 
+* WASA 2022 & 2023, Dalian, China, April 2023 
 * IEEE Metaverse Congress, Online, December 2022
 * IEEE ICC 2022, Seoul, South Korea, May 2022
 * IEEE WCNC 2022, Austin, TX, USA, April 2022
@@ -28,3 +29,4 @@ MOOCs, Schools & Distinguished Lectures
 * MOOC: Zero Knowledge Proofs, **UC Berkeley**, Online, 2023
 * MOOC: FinTech Technologies, **HKU**, Online, 2023
 * Distinguished Lecture: Web3 Big Data and Blockchain Forensics, **Cornell U & HKU**, Online, 2023
+* Distinguished Lecture: Digitalization in the Service of Society: Harnessing Big Vehicle Trajectory Data, **Aalborg U & HKU**, Hong Kong, 2023
