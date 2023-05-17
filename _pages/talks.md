@@ -21,7 +21,7 @@ Conferences
 * WASA 2021, Nanjing, China, June 2021 
 
 
-MOOCs, Schools & Distinguished Lectures
+MOOCs, Schools, Seminars & Distinguished Lectures
 ======
 * Summer Institute: Fintech: AI, Blockchain, Computational Finance, **HKU**, Hong Kong, 2020 
 * Distinguished Lecture: Digitalization, Digital Trust and TrustTech, **NTU & HKU**, Hong Kong, 2022
@@ -30,3 +30,4 @@ MOOCs, Schools & Distinguished Lectures
 * MOOC: FinTech Technologies, **HKU**, Online, 2023
 * Distinguished Lecture: Web3 Big Data and Blockchain Forensics, **Cornell U & HKU**, Online, 2023
 * Distinguished Lecture: Digitalization in the Service of Society: Harnessing Big Vehicle Trajectory Data, **Aalborg U & HKU**, Hong Kong, 2023
+* QICI Seminar: Quantum Edge Detection, **UAB & HKU**, Hong Kong, 2023
