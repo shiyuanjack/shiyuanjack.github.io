@@ -9,7 +9,7 @@ Selected list of Publications
 ======
 [**An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET**](https://ieeexplore.ieee.org/abstract/document/10201163)
 <br>
-Published in *IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, 2023
+Published in *IEEE 97th Vehicular Technology Conference (IEEE VTC)*, 2023
 <br>
 **Recommend citation**: S. Xu, X. Chen, W. Kong, et al., "An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET," in *2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, pp. 1-6, 2022.
 <br><br>
