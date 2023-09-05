@@ -7,6 +7,20 @@ author_profile: true
 
 Selected list of Publications
 ======
+[**An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET**](https://ieeexplore.ieee.org/abstract/document/10201163)
+<br>
+Published in *IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, 2023
+<br>
+**Recommend citation**: S. Xu, X. Chen, W. Kong, et al., "An Efficient Blockchain-based Privacy-Preserving Authentication Scheme in VANET," in *2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, pp. 1-6, 2022.
+<br><br>
+
+[**A blockchain-based log storage model with efficient query**](https://link.springer.com/article/10.1007/s00500-023-08975-3)
+<br>
+Published in *Soft Computing*, 2023
+<br>
+**Recommend citation**: G. Xu, Y. Xu, S. Xu, et al., "A blockchain-based log storage model with efficient query," *Soft Computing*, vol. 27, pp. 13779-13787, 2023
+<br><br>
+
 [**AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain**](https://www.sciencedirect.com/science/article/pii/S1389128623000403?via%3Dihub)
 <br>
 Published in *Computer Networks*, 2023
