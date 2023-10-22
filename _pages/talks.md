@@ -13,7 +13,7 @@ Attending Conferences
 ======
 * Inscrypt 2023, Hangzhou, China, December 2023
 * Asiacrypt 2023, Guangzhou, China, December 2023
-* IEEE VTC 2023 Srping, Florence, Italy, June 2023 
+* IEEE VTC 2023 Spring, Florence, Italy, June 2023 
 * WASA 2022 & 2023, Dalian, China, April 2023 
 * IEEE Metaverse Congress, Online, December 2022
 * IEEE ICC 2022, Seoul, South Korea, May 2022
