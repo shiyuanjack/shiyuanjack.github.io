@@ -15,7 +15,7 @@ Mr. Xu is currently a Ph.D. student, supervised by [Prof. Yiu Siu-Ming](https://
 
 Research Interests
 ======
-Broadly speaking, I am interested in Applied Cryptography and Information Security. Specifically, my current research mainly focuses on Post-Quantum Cryptography, Public Key Encryption, Signature Protocols, and Privacy-Preserving in the Internet of Things (e.g. VANET, EMR data).
+Broadly speaking, I am interested in Applied Cryptography and Information Security. Specifically, my current research mainly focuses on Post-Quantum Cryptography, Public Key Encryption with Advanced Functions, and Privacy-Preserving in the context of the cloud and Internet of Things (e.g. cloud computing, VANET, EMR data).
 
 News
 ======
