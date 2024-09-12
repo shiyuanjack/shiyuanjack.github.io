@@ -11,7 +11,7 @@ redirect_from:
 
 Background
 ======
-Mr. Xu is currently a Ph.D. student, supervised by [Prof. Yiu Siu-Ming](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu), in the Department of Computer Science at The University of Hong Kong. Before he came to Hong Kong, he received a B.Eng. degree majoring in information security. He interned as a summer research assistant with [Dr. Ramanathan Ravishankar](https://www.cs.hku.hk/index.php/people/academic-staff/ravi) at The University of Hong Kong in 2021. 
+Mr. Xu is currently a Ph.D. candidate, supervised by [Prof. Yiu Siu-Ming](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu), in the Department of Computer Science at The University of Hong Kong. Before he came to Hong Kong, he received a B.Eng. degree majoring in information security. 
 
 Research Interests
 ======
