@@ -19,6 +19,11 @@ Broadly speaking, I am interested in Applied Cryptography and Information Securi
 
 News
 ======
+PC Member: CRYPTO, ASIACRYPT, IEEE MSN
+(External) Reviewer: ACM CIKM, DASFAA, IEEE TDSC, IEEE TIFS, IEEE TITS, IEEE JSAC, IEEE System Journal, IEEE Access, IEEE VTC, Computer Networks, Soft Computing, Ad Hoc Networks, IET Information Security.
+
+News
+======
 1. "Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications" has been accepted by *International Conference on Information Security and Cryptology (Inscrypt' 2023) (CCF C)*.
 2. "AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain" has been published by *Computer Networks* *(JCR Q1, CORE A, CCF B).*
 3. "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios" has been published by *Computer Networks* *(JCR Q1, CORE A, CCF B).*
