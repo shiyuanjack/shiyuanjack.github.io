@@ -19,7 +19,7 @@ Broadly speaking, I am interested in Applied Cryptography and Information Securi
 
 Services
 ======
-PC Member: CRYPTO, ASIACRYPT, IEEE MSN
+PC Member: CRYPTO, ASIACRYPT, IEEE MSN \\
 (External) Reviewer: ACM CIKM, DASFAA, IEEE TDSC, IEEE TIFS, IEEE TITS, IEEE JSAC, IEEE System Journal, IEEE Access, IEEE VTC, Computer Networks, Soft Computing, Ad Hoc Networks, IET Information Security.
 
 News
