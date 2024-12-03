@@ -15,7 +15,7 @@ Mr. Xu is currently a Ph.D. candidate, supervised by [Prof. Yiu Siu-Ming](https:
 
 Research Interests
 ======
-Broadly speaking, I am interested in Applied Cryptography and Information Security. Specifically, my current research mainly focuses on Post-Quantum Cryptography, Public Key Encryption with Advanced Functions, and Privacy-Preserving in the context of the cloud and Internet of Things (e.g. cloud computing, VANET, EMR data).
+Broadly speaking, I am interested in Applied Cryptography and Data Security. Specifically, my current research mainly focuses on Post-Quantum Cryptography, Public Key Encryption with Advanced Functions, and Privacy-Preserving in the context of the outourced data (e.g. cloud storage, EMR).
 
 Services
 ======
@@ -25,10 +25,10 @@ PC Member: CRYPTO, ASIACRYPT, IEEE MSN
 
 News
 ======
-1. "Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications" has been accepted by *International Conference on Information Security and Cryptology (Inscrypt' 2023) (CCF C)*.
-2. "AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain" has been published by *Computer Networks* *(JCR Q1, CORE A, CCF B).*
-3. "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios" has been published by *Computer Networks* *(JCR Q1, CORE A, CCF B).*
-4. "LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios" has been published by *IEEE International Conference on Communications (ICC'2022) (CORE B, CCF C)*.
+1. "FS-LLRS: Lattice-based Linkable Ring Signature with Forward Security for Cloud-assisted Electronic Medical Records" has been published by *IEEE Transactions on Information Forensics and Security (CCF A, JCR Q1)*.
+2. "Post-Quantum Searchable Encryption Supporting User-Authorization for Outsourced Data Management" has been published by *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM' 24) (CCF B)*.
+3. "Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications" has been published by *International Conference on Information Security and Cryptology (Inscrypt' 23) (CCF C)*.
+4. "AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain" has been published by *Computer Networks* *(CCF B, JCR Q1).*
 5. "EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles" has been published by *Tsinghua Science and Technology (JCR Q1).* *(Excellent Paper Award in 2022)*
 
 
