@@ -50,13 +50,6 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 " in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13472, pp. 356–364, 2022.
 <br><br>
 
-[**CA-Free Real-Time Fuzzy Digital Signature Scheme**](https://link.springer.com/chapter/10.1007/978-3-031-19208-1_39)
-<br>
-Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2022
-<br>
-**Recommend citation**: Y. Yan and S. Xu, "CA-Free Real-Time Fuzzy Digital Signature Scheme," in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13471, pp. 479–490, 2022.
-<br><br>
-
 [**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](https://ieeexplore.ieee.org/document/9838582)
 <br>
 Published in *IEEE International Conference on Communications (ICC)*, 2022
@@ -84,27 +77,6 @@ Published in *Peer-to-Peer Networking and Applications*, 2022
 **Recommend citation**: J. Ren, Y. Cheng, S. Xu, "EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET," *Peer-to-Peer Networking and Applications*, vol.15, pp.1385-1397, 2022.
 <br><br>
 
-[**A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain**](https://www.techscience.com/cmc/v72n3/47564)
-<br>
-Published in *Computers, Materials & Continua*, 2022
-<br>
-**Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A Searchable Encryption Scheme Based on Lattice for Log Systems in Blockchain," *Computers, Materials & Continua*, vol. 72, no. 3, pp. 5429-5441, 2022.
-<br><br>
-
-[**A Novel Post-Quantum Blind Signature for Log System in Blockchain**](https://www.techscience.com/csse/v41n3/45554)
-<br>
-Published in *Computer Systems Science and Engineering*, 2022
-<br>
-**Recommend citation**: G. Xu, Y. Cao, S. Xu, et al., "A novel post-quantum blind signature for log system in blockchain," *Computer Systems Science and Engineering*, vol. 41, no.3, pp. 945–958, 2022.
-<br><br>
-
-[**Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption**](https://www.techscience.com/iasc/v34n1/47381)
-<br>
-Published in *Intelligent Automation & Soft Computing*, 2022
-<br>
-**Recommend citation**: G. Xu, F. Yun, X. Chen, et al., "Secure Multi-Party Quantum Summation Based on Quantum Homomorphic Encryption," *Intelligent Automation & Soft Computing*, vol. 34, pp. 531-541, 2022.
-<br><br>
-
 [**EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449329)
 <br>
 Published in *Tsinghua Science and Technology*, 2021  
@@ -115,26 +87,6 @@ Published in *Tsinghua Science and Technology*, 2021
 Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2021  
 **Recommend citation**: S. Xu, X. Chen, C. Wang, et al., "A Lattice-Based Ring Signature Scheme to Secure Automated Valet Parking," in *Wireless Algorithms, Systems, and Applications (WASA 2021)*, vol. 12938, pp. 70-83, Sep. 2021.
 <br><br>
-
-[**LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones**](https://ieeexplore.ieee.org/document/9658014)
-<br>
-Published in *International Conference on Communication Technology (ICCT)*, 2021
-<br>
-**Recommend citation**: Y. Cheng, S. Xu, M. Zang, et al., "LPPA: A Lightweight Privacy-Preserving Authentication Scheme for the Internet of Drones," in *International Conference on Communication Technology (ICCT)*, pp. 656-661, 2021.
-<br><br>
-
-[**Secure Authentication Scheme for VANET Based on Blockchain**](https://ieeexplore.ieee.org/document/9674693)
-<br>
-Pulished in *International Conference on Computer and Communications (ICCC)*, 2021
-<br>
-**Recommend citation**: Y. Cheng, S. Xu, M. Zang, et al., "Secure Authentication Scheme for VANET Based on Blockchain," in *International Conference on Computer and Communications (ICCC)*, pp. 1526-1531, 2021.
-<br><br>
-
-[**Student Performance Protection Based On Blockchain Technology**](https://iopscience.iop.org/article/10.1088/1742-6596/1748/2/022006/pdf)  
-Published in *International Seminar on Computer Technology, Mechanical and Electrical Engineering(ISCME)*, 2021
-<br>
-**Recommend citation**: X. Liang and S. Xu, " Student Performance Protection Based On Blockchain Technology," in *Journal of Physics: Conference Series*, vol. 1748, pp. 022066, 2021.
-
 
 
 Selected list of Computer Software Copyrights
