@@ -11,6 +11,8 @@ redirect_from:
 
 Attending Conferences
 ======
+* ChinaCrypt 2024, Hangzhou, China, November 2024
+* ACM CIKM 2023, Boise, U.S.A, October 2024
 * Inscrypt 2023, Hangzhou, China, December 2023
 * Asiacrypt 2023, Guangzhou, China, December 2023
 * IEEE VTC 2023 Spring, Florence, Italy, June 2023 
@@ -18,7 +20,6 @@ Attending Conferences
 * IEEE Metaverse Congress, Online, December 2022
 * IEEE ICC 2022, Seoul, South Korea, May 2022
 * IEEE WCNC 2022, Austin, TX, USA, April 2022
-* IEEE ICCC 2021, Chengdu, China, December 2021
 * IEEE ICCT 2021, Tianjin, China, October 2021
 * WASA 2021, Nanjing, China, June 2021 
 
