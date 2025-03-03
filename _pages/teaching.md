@@ -9,13 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-[**COMP2119C. Introduction to Data Structures and Algorithms (CS)**](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2022/comp2119.html)
+[**COMP2119D. Introduction to Data Structures and Algorithms (CS)**](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2024/comp2119.html)
 <br>
-*Taught by* Prof. Siu-Ming Yiu and Prof. Benjamin C.M. Kao  
-*Undergraduate course, Department of Computer Science, The University of Hong Kong, 2023*
+*Taught by* Prof. Siu-Ming Yiu <br> 
+*Undergraduate course, Department of Computer Science, The University of Hong Kong, 2025*
 
 
 [**COMP2119D. Introduction to Data Structures and Algorithms (CS)**](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2023/comp2119.html)
 <br>
 *Taught by* Prof. Siu-Ming Yiu <br> 
 *Undergraduate course, Department of Computer Science, The University of Hong Kong, 2024*
+
+
+[**COMP2119C. Introduction to Data Structures and Algorithms (CS)**](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2022/comp2119.html)
+<br>
+*Taught by* Prof. Siu-Ming Yiu and Prof. Benjamin C.M. Kao  
+*Undergraduate course, Department of Computer Science, The University of Hong Kong, 2023*
+
