@@ -21,7 +21,7 @@ Services
 ======
 PC Member: CRYPTO, ASIACRYPT, IEEE MSN
 
-(External) Reviewer: ACM WWW, ACM CIKM, DASFAA, IEEE TDSC, IEEE TIFS, IEEE TITS, IEEE JSAC, IEEE IoT-J, IEEE Syst. J, IEEE Access, IEEE VTC, Computer Networks, Soft Computing, Ad Hoc Networks, IET Information Security.
+(External) Reviewer: ACM WWW, ACM CIKM, DASFAA, IEEE TDSC, IEEE TIFS, IEEE TITS, IEEE JSAC, IEEE TVT, IEEE IoT-J, Computer Networks, Soft Computing, Ad Hoc Networks, IET Information Security, IEEE Syst. J, IEEE Access, IEEE VTC,.
 
 News
 ======
